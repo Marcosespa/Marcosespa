@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Marcos
 
 I'm a third semester student of CS and Business administration at the university of Los Andes in Bogota, Colombia. I'm passionate about the new technologies and Finances
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcosespa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
