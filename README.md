@@ -18,11 +18,11 @@ I'm a third semester student of CS and Business administration at the university
 
 
 #### About me:
-- 🔭 I’m currently working on end University  
-- 🌱 I’m currently learning MySQL 
-- 🫱🏽‍🫲🏾I’m looking to collaborate on Open Source projects 
-- 📩 How to reach me: On Instagram 
-- 🏊🏽‍♂️ Fun fact: I want to do a Ironman 
+- 🔭 I’m currently working on me. 
+- 🌱 I’m currently learning MySQL.
+- 🫱🏽‍🫲🏾I’m looking to collaborate on Open Source projects. 
+- 📩 How to reach me: On Instagram.
+- 🏊🏽‍♂️ Fun fact: I want to do a Ironman.
 
 #### Social media:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Marcosespa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MarcosEspaña/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marcos.r.espa/)  
