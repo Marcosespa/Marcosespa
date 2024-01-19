@@ -15,7 +15,10 @@ I'm a third semester student of CS and Business administration at the university
 <!--CSS 3 -->
  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
-
+<!-- TypeScript -->
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
 
 #### About me:
 - 🔭 I’m currently working on me. 
