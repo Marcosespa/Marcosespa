@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Marcos
 #### Design and Development
-![Design and Development](https://careers.insightconsultants.co/wp-content/uploads/2020/09/1_sV60JhlYL4IdWjcNvKTJRA.png)
 
 I'm a fourth semester student of CS and Business administration at the university of Los Andes in Bogota, Colombia. I'm passionate about the new technologies and Finances
 
