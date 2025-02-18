@@ -3,7 +3,7 @@
 
 I am a Computer Science and Business Administration student at Universidad de los Andes in Bogotá, Colombia, with strong skills in problem-solving, algorithm design, and cloud computing. Proficient in database management (SQL, NoSQL), project management, and web development, I have hands-on experience in API development and integration.
 
-I bring strong analytical capabilities in data analysis, business analysis, and financial analysis, combined with a solid foundation in supply chain and risk management. Skilled in programming languages such as Python, Java, and C++, as well as object-oriented programming (OOP) and data structures, I am dedicated to leveraging my interdisciplinary background to create impactful, scalable solutions.
+I bring strong analytical capabilities in data analysis, business analysis, and financial analysis, combined with a solid foundation in supply chain and risk management. Skilled in programming languages such as Python and Java, as well as object-oriented programming (OOP) and data structures, I am dedicated to leveraging my interdisciplinary background to create impactful, scalable solutions.
 
 Driven by a passion for continuous learning and self-improvement, I am committed to making a meaningful impact at the intersection of technology, business, and supply chain innovation.
 
