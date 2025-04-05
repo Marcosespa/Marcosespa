@@ -27,11 +27,11 @@ ___
 ---
 
 ### About Me:
-- 🔭 I’m focusing on personal and professional growth.
-- 🌱 Currently expanding my skills in MySQL and database management.
-- 🫱🏽‍🫲🏾 Looking to contribute to Open Source projects and collaborate with like-minded developers.
-- 🏊🏽‍♂️ Fun fact: I aspire to complete an Ironman triathlon.
-
+- 🔭 Working on scalable tech and business solutions.  
+- 🌱 Expanding skills in MySQL, Kubernetes, and NLP.  
+- 🤝 Open to innovative collaborations and open-source projects.  
+- 🏊‍♂️ Training for an Ironman triathlon.
+  
 ### Connect with Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/Marcosespa)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/MarcosEspaña/)
