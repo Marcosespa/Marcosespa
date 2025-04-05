@@ -1,11 +1,20 @@
 ## Hi there 👋, I'm Marcos España
-#### Bridging Technology and Business with Scalable Solutions
+ #### *Computer Science & Business Administration Student | Building Scalable Tech Solutions*  
 
-I am a Computer Science and Business Administration student at Universidad de los Andes in Bogotá, Colombia, with strong skills in problem-solving, algorithm design, and cloud computing. Proficient in database management (SQL, NoSQL), project management, and web development, I have hands-on experience in API development and integration.
+I am a student at Universidad de los Andes, Bogotá, Colombia, dedicated to creating impactful solutions at the intersection of technology and business. With expertise in programming, cloud computing, and data analysis, I excel in solving complex challenges and driving innovation.
 
-I bring strong analytical capabilities in data analysis, business analysis, and financial analysis, combined with a solid foundation in supply chain and risk management. Skilled in programming languages such as Python and Java, as well as object-oriented programming (OOP) and data structures, I am dedicated to leveraging my interdisciplinary background to create impactful, scalable solutions.
-
-Driven by a passion for continuous learning and self-improvement, I am committed to making a meaningful impact at the intersection of technology, business, and supply chain innovation.
+---
+### Key Strengths:  
+- **Advanced Data Analysis**: Expertise in statistical analysis, data visualization, and extracting actionable insights from complex datasets using tools like Python (Pandas, NumPy) and SQL.  
+- **Cloud Computing Proficiency**: Hands-on experience designing and deploying scalable solutions on cloud platforms such as AWS, Google Cloud, or Azure, including serverless architectures and data storage.  
+- **Machine Learning Model Development**: Skilled in building, training, and deploying ML models (e.g., regression, classification, clustering) using frameworks like TensorFlow, Scikit-learn, or PyTorch.  
+- **API Design & Integration**: Proficient in developing RESTful APIs and integrating systems to optimize workflows and data exchange.  
+- **Business Intelligence & Optimization**: Ability to translate technical insights into business strategies, including financial modeling, supply chain optimization, and risk assessment.  
+- **Containerization**: Experienced with Docker and Kubernetes for deploying and managing scalable, containerized applications.  
+- **Secure Coding Practices**: Understanding of secure coding practices and risk mitigation in cloud and web applications.  
+- **AI-Driven Automation**: Expertise in automating processes with AI, including natural language processing (NLP) and predictive analytics.  
+- **Data Engineering**: Skilled in designing ETL pipelines and managing data workflows for real-time analytics.
+___
 
 ### Technologies and Tools:
 <p align="center">
@@ -15,6 +24,7 @@ Driven by a passion for continuous learning and self-improvement, I am committed
   <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
+---
 
 ### About Me:
 - 🔭 I’m focusing on personal and professional growth.
